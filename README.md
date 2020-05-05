@@ -1,2 +1,2 @@
 # Website
-Repo for website
+Repo for redirection to the website.
