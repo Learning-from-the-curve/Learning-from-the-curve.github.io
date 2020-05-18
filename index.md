@@ -7,4 +7,4 @@ title: Learning from the curve
 
 <p>You can find us here:</p>
 <p><a href="https://learning-from-the-curve.netlify.app">https://learning-from-the-curve.netlify.app</a></p>
-<p><a href="https://www.learningfromthecurve.com">https://www.learningfromthecurve.net</a></p>
+<p><a href="https://www.learningfromthecurve.net">https://www.learningfromthecurve.net</a></p>
